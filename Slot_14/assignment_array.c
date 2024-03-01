@@ -205,29 +205,29 @@ int main () {
 	input_array(arr, &n);
 	
 	//Bai 1:
-//	find_max_even_array(arr, n);
+	find_max_even_array(arr, n);
 	
 	//Bai 2:
-//	find_sum_prime_array(arr, n);
+	find_sum_prime_array(arr, n);
 	
 	//Bai 3:
-//	create_fibonacci(a, n);
+	create_fibonacci(a, n);
 	
 	//Bai 4:
-//	find_ave_min_max(arr, n);
+	find_ave_min_max(arr, n);
 	
 	//Bai 5:
-//	find_index_x(arr, n, &x);
+	find_index_x(arr, n, &x);
 
 	//Bai 6:
-//	printf("Bai 6: \n");
-//	input_array(a_swap, &n);
-//	swap_max_to_min(a_swap, n);
+	printf("Bai 6: \n");
+	input_array(a_swap, &n);
+	swap_max_to_min(a_swap, n);
 
 	//Bai 7:
-//	printf("Bai 7: \n");
-//	input_array(a_swap_prime, &n);
-//	swap_prime_index(a_swap_prime, n);
+	printf("Bai 7: \n");
+	input_array(a_swap_prime, &n);
+	swap_prime_index(a_swap_prime, n);
 
 	//Bai 8: 
 	isSymmetrical(arr, n);
