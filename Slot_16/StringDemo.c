@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<string.h>
 
 int checkAnphabet (char c) {
 	if (c >= 'A' && c <= 'Z' || c >= 'a' && c <= 'z') 
