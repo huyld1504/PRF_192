@@ -7,7 +7,9 @@ int checkAlpha (char c) {
 	else return 0;
 }
 
-
+int isEven (int n) {
+	return n % 2 == 0;
+}
 
 int checkNumb (char c) {
 	if (c <= '9' && c >= '0') return 1;
