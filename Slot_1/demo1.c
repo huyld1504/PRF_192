@@ -2,15 +2,15 @@
 
 int main (void) {
 	
-//	int cd = 8;
-//	int cr = 9;
-//	
-//	int p = (cd + cr) * 2;
-//	int s = cd * cr;
+	int cd = 8;
+	int cr = 9;
 	
-//	printf("Chu vi hinh chu nhat la: %d \n", p);
+	int p = (cd + cr) * 2;
+	int s = cd * cr;
 	
-//	printf("Dien tich hinh chu nhat la: %d", s);
+	printf("Chu vi hinh chu nhat la: %d \n", p);
+	
+	printf("Dien tich hinh chu nhat la: %d", s);
 
 	float height = 1.8;
 	int weight = 80;
